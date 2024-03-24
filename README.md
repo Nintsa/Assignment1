@@ -14,64 +14,64 @@ Everyone who has Android Studio with its latest version (Iguana) can install and
 Upon launching the OnlineStoreApp, you will be prompted to log in or register for a new account. Follow the on-screen instructions to complete the process and start using the app.
 
 ### User Interface Overview:
-OnlineStoreApp features a simple and intuitive user interface, consisting of the following main screens:
+OnlineStoreApp features a simple and intuitive user interface, consisting of the following main screens: <br /> 
 
-•	Search: Allows users to search for products by keyword.
-•	Home: Displays featured products by all categories.
-•	Product Details: Provides detailed information about a selected product.
-•	Cart: Shows the items added to the user's shopping cart.
-•	Profile: Allows users to view and edit their profile information. Change payment methods or location. Have an information about “Terms and Conditions” and “Privacy Policy”.
+•	Search: Allows users to search for products by keyword. <br />
+•	Home: Displays featured products by all categories. <br />
+•	Product Details: Provides detailed information about a selected product. <br />
+•	Cart: Shows the items added to the user's shopping cart. <br />
+•	Profile: Allows users to view and edit their profile information. Change payment methods or location. Have an information about “Terms and Conditions” and “Privacy Policy”. <br />
 
 ### Features:
-Browsing Products:
-•	Users can browse products by category or search for specific items.
-•	Product listings display essential information such as price, images, and ratings.
-Adding Products to Cart:
-•	Users can add products to their cart with a single tap.
-•	The cart screen displays a summary of the items added, along with the total price.
-Placing Orders:
-•	Once satisfied with their selection, users can proceed to checkout and place their orders.
-•	Payment options include credit/debit cards, PayPal, and other supported methods.
-User Profile Management:
-•	Users can view and update their profile information, including name, email, picture, card details and shipping address.
+Browsing Products: <br />
+•	Users can browse products by category or search for specific items. <br />
+•	Product listings display essential information such as price, images, and ratings. <br />
+Adding Products to Cart: <br />
+•	Users can add products to their cart with a single tap. <br />
+•	The cart screen displays a summary of the items added, along with the total price. <br />
+Placing Orders: <br />
+•	Once satisfied with their selection, users can proceed to checkout and place their orders. <br />
+•	Payment options include credit/debit cards, PayPal, and other supported methods. <br />
+User Profile Management: <br />
+•	Users can view and update their profile information, including name, email, picture, card details and shipping address. <br />
 
 ### User Guide
-Browsing Products:
-•	Open the OnlineStoreApp.
-•	Navigate to the "Home" screen.
-•	Browse featured products by categories.
-Adding Products to Cart:
-•	From the product listing, tap on the plus button on desired item
-Or
-•	From the product listing, tap on the desired item to view its details.
-•	Click the "Add to wish list" button.
-•	Review the cart contents by navigating to the "Cart" screen. 
-Buying Products from Cart:
-•	From Cart change quantity of products by “+” or “-“ buttons
-•	Click the “Buy Now” button
-Adding/Editing Address/Cards
-•	From Profile page click on Address/Payment
-•	Click on “Add new Address”/”Add new Card” button
-•	Click on “Save Info” button
+Browsing Products: <br />
+•	Open the OnlineStoreApp. <br />
+•	Navigate to the "Home" screen. <br />
+•	Browse featured products by categories. <br />
+Adding Products to Cart:<br />
+•	From the product listing, tap on the plus button on desired item <br />
+Or <br />
+•	From the product listing, tap on the desired item to view its details. <br />
+•	Click the "Add to wish list" button.<br />
+•	Review the cart contents by navigating to the "Cart" screen. <br />
+Buying Products from Cart:<br />
+•	From Cart change quantity of products by “+” or “-“ buttons <br />
+•	Click the “Buy Now” button <br />
+Adding/Editing Address/Cards <br />
+•	From Profile page click on Address/Payment <br />
+•	Click on “Add new Address”/”Add new Card” button <br />
+•	Click on “Save Info” button <br />
 
 ### Technical Documentation:
-Built With  
-•	Kotlin Version: 1.8.0
-•	Project Architecture: 
-o	Clean Architecture
-o	MVI
-o	Repository Pattern
-•	Firebase for backend services
-•	Retrofit API integration
-•	Coroutines and Flow
-•	SplashScreen API
-•	ViewBinding
-•	Dependency Injection using dagger Hilt
-•	FusedLocationProvider
-•	Data Store Preferences
-•	RecyclerView
-API Used:
-•	S
+Built With  <br />
+•	Kotlin Version: 1.8.0 <br />
+•	Project Architecture: <br />
+o	Clean Architecture <br />
+o	MVI <br />
+o	Repository Pattern <br />
+•	Firebase for backend services <br />
+•	Retrofit API integration <br />
+•	Coroutines and Flow<br />
+•	SplashScreen API<br />
+•	ViewBinding<br />
+•	Dependency Injection using dagger Hilt <br />
+•	FusedLocationProvider <br />
+•	Data Store Preferences <br />
+•	RecyclerView<br />
+API Used: <br />
+•	S <br />
 
 ### Visual Representation of some features:
 ![Login](https://github.com/Nintsa/Summery10/assets/148894198/aac8de5b-6fb2-4aca-b362-0e87479e4f59)
