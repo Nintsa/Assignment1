@@ -5,10 +5,10 @@ The aim of this project is to develop an Android application that will help user
 
 ### Installation Guide:
 Everyone who has Android Studio with its latest version (Iguana) can install and open application.
-#•	Download project on your computer
-#•	Open Android Studio with its latest version (Iguana) 
-# •	Open the project in Android Studio 
-# •	Run the application on an emulator or a physical device
+/•	Download project on your computer
+/ •	Open Android Studio with its latest version (Iguana) 
+•	Open the project in Android Studio 
+•	Run the application on an emulator or a physical device
 
 ### Getting Started:
 Upon launching the OnlineStoreApp, you will be prompted to log in or register for a new account. Follow the on-screen instructions to complete the process and start using the app.
