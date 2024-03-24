@@ -4,11 +4,11 @@
 The aim of this project is to develop an Android application that will help users to make purchases online. The app will provide users with opportunity to buy different kinds of goods (Clothes, Technics, Furniture…). 
 
 ### Installation Guide:
-Everyone who has Android Studio with its latest version (Iguana) can install and open application.
-/•	Download project on your computer
-/ •	Open Android Studio with its latest version (Iguana) 
-•	Open the project in Android Studio 
-•	Run the application on an emulator or a physical device
+Everyone who has Android Studio with its latest version (Iguana) can install and open application. <br />
+•	Download project on your computer <br />
+•	Open Android Studio with its latest version (Iguana) <br /> 
+•	Open the project in Android Studio <br />
+•	Run the application on an emulator or a physical device <br />
 
 ### Getting Started:
 Upon launching the OnlineStoreApp, you will be prompted to log in or register for a new account. Follow the on-screen instructions to complete the process and start using the app.
