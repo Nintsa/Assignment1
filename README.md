@@ -74,7 +74,8 @@ API Used: <br />
 •	S <br />
 
 ### Visual Representation of some features:
-![Alt text]([https://imgur.com/a/iuoFa5d])
+[https://imgur.com/a/iuoFa5d]
+
 
 
 
