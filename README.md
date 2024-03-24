@@ -74,13 +74,9 @@ API Used: <br />
 •	S <br />
 
 ### Visual Representation of some features:
-![Login](https://github.com/Nintsa/Summery10/assets/148894198/aac8de5b-6fb2-4aca-b362-0e87479e4f59)
-![Registration](https://github.com/Nintsa/Summery10/assets/148894198/4fa69a7c-1ad8-4fed-8ebc-5fed3477aaa3)
-![HomeScreen](https://github.com/Nintsa/Summery10/assets/148894198/ca711051-a19b-4d9c-a793-61376cac7756)
-![SearchScreen](https://github.com/Nintsa/Summery10/assets/148894198/b9180739-1bd1-469a-885e-3b1d6dac75be)
-![ProductDetailed](https://github.com/Nintsa/Summery10/assets/148894198/210bb64c-ddaf-4fcb-84bf-60551eeeaead)
-![Wishlist](https://github.com/Nintsa/Summery10/assets/148894198/b82722f3-68d3-4036-82a1-2a5aefaa5857)
-![EmptyWishlist](https://github.com/Nintsa/Summery10/assets/148894198/6491b45f-d8d7-45e9-9117-087ad5c6fde1)
+![Alt text]([https://imgur.com/a/iuoFa5d])
+
+
 
 
 
