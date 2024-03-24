@@ -75,8 +75,8 @@ API Used: <br />
 •	https://dummyjson.com/docs/products <br />
 
 ### Visual Representation of some features:
-[https://imgur.com/a/iuoFa5d]
-![alt text](https://github.com/Nintsa/Assignment1/blob/master/SearchScreen.png?raw=true)
+![alt text](https://github.com/Nintsa/Assignment1/blob/master/AppScreen/EmptyWishlist.png?raw=true)
+![alt text](https://github.com/Nintsa/Assignment1/blob/master/AppScreen/HomeScreen.png?raw=true)
 
 
 
