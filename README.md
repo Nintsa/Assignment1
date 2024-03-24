@@ -20,7 +20,7 @@ OnlineStoreApp features a simple and intuitive user interface, consisting of the
 •	Home: Displays featured products by all categories. <br />
 •	Product Details: Provides detailed information about a selected product. <br />
 •	WishList: Shows the items added to the user's shopping cart and show selected items offline as well. <br />
-•	Profile: Allows users to change profile picture. Have an information about “Terms and Conditions”. <br />
+•	Profile: Allows users to change profile picture. Have an information about “Terms and Conditions”. Log out From Application. <br />
 
 ### Features:
 Browsing Products: <br />
